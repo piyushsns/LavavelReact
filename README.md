@@ -4,11 +4,11 @@
 
 1. Clone the Git Repository:
 
-   Run ```git clone https://github.com/jmkolawole/laravel-react-fullstack-application-with-passport-redux-and-material-ui.git```
+   Run ```git clone https://github.com/piyushsns/LavavelReact.git```
 
 2. cd into the project directory:
 
-   Run ```cd laravel-react-fullstack-application-with-passport-redux-and-material-ui```
+   Run ```cd LavavelReact```
 
 ## Backend
 3. cd into the "Backend" folder:
